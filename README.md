@@ -13,6 +13,8 @@ Seja bem vindo à minha página pessoal.
 #### *English language translation*
 
 [English version of the presentation given at the São Paulo Municipal Science, Technology and Innovation week - 25/10/2017
-Translation prepared: February 2018](docs/Lessons-learned-and-mathematics-usage-during-the-development-and-implementation-of-an-innovative-software.markdown)
+](docs/Lessons-learned-and-mathematics-usage-during-the-development-and-implementation-of-an-innovative-software.markdown)
+
+*Translated on: February 2018*
 
 #### Marcelo Eduardo Redoschi
