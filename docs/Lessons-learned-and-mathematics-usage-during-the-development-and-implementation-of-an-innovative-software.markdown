@@ -15,4 +15,4 @@ date: "2018-2-4"
 
 ![Photo Marcelo 25 Oct 17](images/photo_marcelo_talk_25_oct_17.png)
 
-##### [Lessons learned and the application of mathematics during the development and implementation of an innovative software at the state health sector. Theoretical motivation and practical examples in Ruby (Rails).](../../pdfs/Lessons_learned_and_mathematics_usage_during_the_development_and_implementation_of_an_innovative_software.pdf)
+##### [Lessons learned and the application of mathematics during the development and implementation of an innovative software at the state health sector. Theoretical motivation and practical examples in Ruby (Rails).](pdfs/Lessons_learned_and_mathematics_usage_during_the_development_and_implementation_of_an_innovative_software.pdf)
