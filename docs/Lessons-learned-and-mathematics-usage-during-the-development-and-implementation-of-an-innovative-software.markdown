@@ -5,7 +5,7 @@ author: "Marcelo Eduardo Redoschi"
 date: "2018-2-4"
 ---
 
-### São Paulo Municipal Science, Technology and Innovation week - 25/10/2017Semana Municipal de Ciência, Tecnologia e Inovação
+### São Paulo Municipal Science, Technology and Innovation week - 25/10/2017
 
 ##### Presentation given in São Paulo, Brazil, 25 October 2017
 
