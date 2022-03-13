@@ -17,6 +17,7 @@ Seja bem vindo à minha página pessoal do github.
 ### Repositories / Repositórios
 
 [Graduate certificate](https://github.com/meredoschi/gradcert)
+This repository uses sample data and does not include all the functionality and scripts present in the production version.  It is based on the code (solo developer) I wrote while at the São Paulo State Health Secretariat.  It was developed with Ruby on Rails and used Zurb foundation for the interface.
 
 [Movies database](https://github.com/meredoschi/moviedb_exercise)
 Exercise which uses Ruby on Rails, Bootstrap and Vuejs
